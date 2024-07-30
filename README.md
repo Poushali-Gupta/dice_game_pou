@@ -1,1 +1,1 @@
-# dice_game_pou
+Dice Project using html, css, javascript
